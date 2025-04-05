@@ -28,7 +28,7 @@
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pattersonrptr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FFA003&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FFA003&count_private=true)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pattersonrptr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FFA003&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FFA003&count_private=true)](https://github.com/pattersonrptr/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pattersonrptr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FFA003&hide=html,css,scss&bg_color=151515&text_color=8B8B8B&border_radius=3&border_color=FFA003&count_private=true)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pattersonrptr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FFA003&hide=html,css,scss&bg_color=151515&text_color=8B8B8B&border_radius=3&border_color=FFA003&count_private=true)](https://github.com/pattersonrptr/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pattersonrptr&theme=dark&border=FFA613)](https://git.io/streak-stats)
 <br>
