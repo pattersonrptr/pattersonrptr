@@ -1,35 +1,57 @@
 <img align="right" alt="" height="380" src="https://github.com/user-attachments/assets/853bdc79-30bb-46b8-8569-3b7b1df0af0a">
 
 <h1>
-    <a href="https://pattersonrptr.github.io/">
-     <img align="center" alt="Logo Patterson Silva" width="36px" src="https://github.com/user-attachments/assets/cc88a173-5105-40b9-9578-f0c962046a86"></a>
-    <span>Patterson Silva</span>
+        <a href="https://pattersonrptr.github.io/">
+         <img align="center" alt="Logo Patterson Silva" width="36px" src="https://github.com/user-attachments/assets/cc88a173-5105-40b9-9578-f0c962046a86"></a>
+        <span>Patterson Silva</span>
 </h1>
 
-<p align="justify">Software Engineer with a postgraduate degree in Software Engineering. As a fullstack developer, I focus on backend-driven solutions and bring extensive experience in automation and data collection through web scraping with Python.</p>
+<p align="justify"><strong>Backend Engineer</strong> focused on APIs, web scraping, and data automation. I build reliable backend systems with clean architecture, pragmatic design patterns, and production-ready pipelines.</p>
 
-<p>My first "Hello World" emerged in a Logic Programming class, wrestling with the foundations of C, but it was Deep Learning that defined my academic journey: I built a facial recognition system as my undergraduate thesis, blending complex algorithms with real-world applications.</p>
+<p>
+    • Backend-first mindset (APIs, data services, automation)<br>
+    • Scrapers & crawlers in Python, ETL and processing workflows<br>
+    • Clean architecture, design patterns, and maintainable code
+</p>
 
-<p>In my free time, I immerse myself in pixelated worlds through video games or relax with books — ranging from technical essays to sci-fi sagas and medieval fantasy.</p>
+<p>I started coding with C in a Logic Programming class, and later built a facial recognition system as my undergraduate thesis. Today, I combine algorithms, backend engineering, and data automation to deliver practical solutions.</p>
 
-<p>Passionate about bridging creativity and code, whether in Python scripts, architectural designs, or turning raw data into actionable insights <a href="https://www.instagram.com/patterson_00110111/">(@patterson_00110111)</a>.</p>
-<!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://pattersonrptr.github.io/)
-[![GitHub Page](https://img.shields.io/badge/pattersonrptr.github.io-67136f?style=for-the-badge)](https://pattersonrptr.github.io/)
--->
+<p>When I'm offline, I enjoy video games and reading — from technical essays to sci‑fi and medieval fantasy.</p>
+
+<p>If you want to talk about backend, APIs, or data automation, reach out anytime.</p>
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pattersonrptr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/pattersonrptr/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/patterson_00110111/)
 
-### Languages and Tools
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20"/></a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="20" height="20"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/></a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="20" height="20"/></a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="20" height="20"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/></a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="20" height="20"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20"/></a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/></a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="20" height="20"/></a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886620cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="20" height="20"/></a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/></a> </p>
+### Tech Stack (focused)
+
+#### Backend & APIs
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00F2EA)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=44B78B)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=ED8B00)
+
+#### Data Automation & Scraping
+![Celery](https://img.shields.io/badge/Celery-000?style=for-the-badge&logo=celery&logoColor=9AB0A3)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+#### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+
+#### Frontend (supportive)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pattersonrptr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FFA003&hide=html,css,scss&bg_color=151515&text_color=8B8B8B&border_radius=3&border_color=FFA003&count_private=true)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pattersonrptr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FFA003&hide=html,css,scss&bg_color=151515&text_color=8B8B8B&border_radius=3&border_color=FFA003&count_private=true)](https://github.com/pattersonrptr/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pattersonrptr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=FFA003&hide=html,css,scss&bg_color=151515&text_color=8B8B8B&border_radius=3&border_color=FFA003&count_private=true)](https://github.com/pattersonrptr/github-readme-stats)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pattersonrptr&theme=dark&border=FFA613)](https://git.io/streak-stats)
-<br>
