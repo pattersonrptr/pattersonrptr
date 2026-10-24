@@ -1,4 +1,4 @@
-<img align="right" alt="" height="380" src="https://github.com/user-attachments/assets/853bdc79-30bb-46b8-8569-3b7b1df0af0a">
+<img align="right" alt="A robot spider scrapes web pages, an ETL factory processes the data, and it lands in a database served by an API" width="420" src="assets/profile-hero.png">
 
 <h1>
         <a href="https://www.linkedin.com/in/pattersonrptr/">
