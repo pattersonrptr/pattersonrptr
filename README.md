@@ -1,8 +1,8 @@
 <img align="right" alt="" height="380" src="https://github.com/user-attachments/assets/853bdc79-30bb-46b8-8569-3b7b1df0af0a">
 
 <h1>
-        <a href="https://pattersonrptr.github.io/">
-         <img align="center" alt="Logo Patterson Silva" width="36px" src="https://github.com/user-attachments/assets/cc88a173-5105-40b9-9578-f0c962046a86"></a>
+        <a href="https://www.linkedin.com/in/pattersonrptr/">
+         <img align="center" alt="Patterson Silva on LinkedIn" width="36px" src="https://github.com/user-attachments/assets/cc88a173-5105-40b9-9578-f0c962046a86"></a>
         <span>Patterson Silva</span>
 </h1>
 
@@ -20,38 +20,40 @@
 
 <p>If you want to talk about backend, APIs, or data automation, reach out anytime.</p>
 
+### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**garimpei**](https://github.com/pattersonrptr/garimpei) | Price monitoring for Brazilian marketplaces (OLX, Mercado Livre, Enjoei, Estante Virtual): scheduled scrapers, price alerts by email and a dashboard | Python · FastAPI · Celery · Playwright · PostgreSQL · React |
+| [**facial_recog_tcc**](https://github.com/pattersonrptr/facial_recog_tcc) | Undergraduate thesis: passwordless login with face recognition, using FaceNet embeddings and one-shot learning | Python · Keras · OpenCV |
+| [**unicid-ciencia-da-computacao**](https://github.com/pattersonrptr/unicid-ciencia-da-computacao) | Computer Science coursework: an X++ compiler down to JVM bytecode, a CPU scheduler, sorting and graph algorithms, all with tests | Java · JavaCC · Python · C |
+| [**faat-sistemas-para-internet**](https://github.com/pattersonrptr/faat-sistemas-para-internet) | Where it started (2008–2011): DNS service discovery, a TCP chat, a console spreadsheet, Truco and Pac-Man | C · Java |
+| [**abyss**](https://github.com/pattersonrptr/abyss) | An anonymous Q&A experiment built on purpose with late-90s tools: Perl CGI, fixed-size binary records, ES5 and no frameworks | Perl · JavaScript |
+
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/pattersonrptr/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/patterson_00110111/)
 
-### Tech Stack (focused)
+### Tech Stack
 
-#### Backend & APIs
+#### Core
+
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FFD43B)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00F2EA)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=44B78B)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00F2EA)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=ED8B00)
-
-#### Data Automation & Scraping
 ![Celery](https://img.shields.io/badge/Celery-000?style=for-the-badge&logo=celery&logoColor=9AB0A3)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-#### Cloud & DevOps
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+<br>
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![GCP](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 
-#### Frontend (supportive)
+#### Also worked with
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### GitHub Stats
-
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pattersonrptr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=FFA003&hide=html,css,scss&bg_color=151515&text_color=8B8B8B&border_radius=3&border_color=FFA003&count_private=true)](https://github.com/pattersonrptr/github-readme-stats)
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pattersonrptr&theme=dark&border=FFA613)](https://git.io/streak-stats)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
