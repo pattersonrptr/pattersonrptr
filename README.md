@@ -24,7 +24,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**garimpei**](https://github.com/pattersonrptr/garimpei) | Price monitoring for Brazilian marketplaces (OLX, Mercado Livre, Enjoei, Estante Virtual): scheduled scrapers, price alerts by email and a dashboard | Python · FastAPI · Celery · Playwright · PostgreSQL · React |
+| [**garimpei**](https://github.com/pattersonrptr/garimpei) | Price monitoring for Brazilian marketplaces: scheduled scrapers, price alerts by email and a dashboard | Python · FastAPI · Celery · Playwright · PostgreSQL · React |
 | [**facial_recog_tcc**](https://github.com/pattersonrptr/facial_recog_tcc) | Undergraduate thesis: passwordless login with face recognition, using FaceNet embeddings and one-shot learning | Python · Keras · OpenCV |
 | [**unicid-ciencia-da-computacao**](https://github.com/pattersonrptr/unicid-ciencia-da-computacao) | Computer Science coursework: an X++ compiler down to JVM bytecode, a CPU scheduler, sorting and graph algorithms, all with tests | Java · JavaCC · Python · C |
 | [**faat-sistemas-para-internet**](https://github.com/pattersonrptr/faat-sistemas-para-internet) | Where it started (2008–2011): DNS service discovery, a TCP chat, a console spreadsheet, Truco and Pac-Man | C · Java |
