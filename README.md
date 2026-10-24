@@ -1,4 +1,4 @@
-<img align="right" alt="A robot spider scrapes web pages, an ETL factory processes the data, and it lands in a database served by an API" width="420" src="assets/profile-hero.png">
+<img align="right" alt="A robot spider scrapes web pages, an ETL factory processes the data, and it lands in a database served by an API" width="420" src="assets/profile-hero-gemini.png">
 
 <h1>
         <a href="https://www.linkedin.com/in/pattersonrptr/">
