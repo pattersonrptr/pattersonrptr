@@ -26,7 +26,7 @@
 |---|---|---|
 | [**garimpei**](https://github.com/pattersonrptr/garimpei) | Price monitoring for Brazilian marketplaces: scheduled scrapers, price alerts by email and a dashboard | Python · FastAPI · Celery · Playwright · PostgreSQL · React |
 | [**facial_recog_tcc**](https://github.com/pattersonrptr/facial_recog_tcc) | Undergraduate thesis: passwordless login with face recognition, using FaceNet embeddings and one-shot learning | Python · Keras · OpenCV |
-| [**unicid-ciencia-da-computacao**](https://github.com/pattersonrptr/unicid-ciencia-da-computacao) | Computer Science coursework at UNICID (2016–2018): an X++ compiler down to JVM bytecode, a CPU scheduler, sorting and graph algorithms, all with tests | Java · JavaCC · Python · C |
+| [**unicid-ciencia-da-computacao**](https://github.com/pattersonrptr/unicid-ciencia-da-computacao) | Computer Science coursework at UNICID (2014–2018): an X++ compiler down to JVM bytecode, a CPU scheduler, sorting and graph algorithms, all with tests | Java · JavaCC · Python · C |
 | [**faat-sistemas-para-internet**](https://github.com/pattersonrptr/faat-sistemas-para-internet) | Internet Systems coursework at FAAT (2008–2011): DNS service discovery, a TCP chat, a console spreadsheet, Truco and Pac-Man | C · Java |
 | [**abyss**](https://github.com/pattersonrptr/abyss) | An anonymous Q&A experiment built on purpose with late-90s tools: Perl CGI, fixed-size binary records, ES5 and no frameworks | Perl · JavaScript |
 
