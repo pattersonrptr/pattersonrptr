@@ -16,7 +16,7 @@
 
 <p>I started coding with C in a Logic Programming class, and later built a facial recognition system as my undergraduate thesis. Today, I combine algorithms, backend engineering, and data automation to deliver practical solutions.</p>
 
-<p>When I'm offline, I enjoy video games and reading — from technical essays to sci‑fi and medieval fantasy.</p>
+<p>When I'm offline, I enjoy video games and reading from technical essays to sci‑fi and medieval fantasy.</p>
 
 <p>If you want to talk about backend, APIs, or data automation, reach out anytime.</p>
 
